@@ -35,7 +35,7 @@
     <img src="./client/public/techs/node" style="width;80px; height:80px"/>
     <img src="./client/public/techs/express" style="width;80px; height:80px"/>
     <img src="./client/public/techs/sequelize" style="width;80px; height:80px"/>
-    <img src="./client/public/techs/postgres" style="width;80px; height:80px"/>
+    <img src="./client/public/techs/postgresql" style="width;80px; height:80px"/>
 </div>
 
 
