@@ -1,7 +1,7 @@
 # Pro design
 
 <div style="display:flex; align-items:center; justify-content:start">
-    <img src="./pro design logo.jpeg" style="width:200px; height:200px"/>
+    <img src="./client/public/pro design logo.jpeg" style="width:200px; height:200px"/>
 </div>
 
 ### Members 🤖
